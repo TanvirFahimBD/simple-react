@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header title="Simple React App" />
       <Content />
-      <Footer info={{ name: "tanvir" }} />
+      <Footer quote="Knowledge is power" />
     </div>
   );
 }
